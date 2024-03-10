@@ -1,3 +1,3 @@
-# ai
+# УВОД У ВЕШТАЧКУ ИНТЕЛИГЕНЦИЈУ
 
-Uvod u veštačku inteligenciju (Primenjene informacione tehnologije)
+Настава за предмет Примењене информационе технологије
