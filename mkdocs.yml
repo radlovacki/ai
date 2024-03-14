@@ -33,6 +33,7 @@ nav:
   - Увод:
     - Шта је вештачка интелигенција?: what_is_ai.md
     - Историјат развоја: history_ai.md
+    - Turinog test: turing_test.md
 
 markdown_extensions:
   - attr_list
@@ -77,7 +78,7 @@ plugins:
   - glightbox
 
 hooks:
-  - C:\dev\uvod_u_ai\mkdocs-material\material\overrides\hooks\translations.py
+  - C:\ai\mkdocs-material\material\overrides\hooks\translations.py
 
 extra:
   annotate:
