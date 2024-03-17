@@ -34,6 +34,9 @@ nav:
     - Шта је вештачка интелигенција?: what_is_ai.md
     - Историјат развоја: history_ai.md
     - Turinog test: turing_test.md
+  - ML.NET:
+    - ML.NET Model Builder: mlnet_mb.md
+    - Бинарна класификација: binary_classification.md
 
 markdown_extensions:
   - attr_list
