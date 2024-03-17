@@ -36,6 +36,9 @@ nav:
     - Турингов тест: turing_test.md
     - Продукциони системи: production_systems.md
     - Алгоритми претраживања: search_algorithms.md
+  - ML.NET:
+    - ML.NET Model Builder: mlnet_mb.md
+    - Бинарна класификација: binary_classification.md
 
 markdown_extensions:
   - attr_list
