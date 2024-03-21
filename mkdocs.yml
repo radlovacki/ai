@@ -33,7 +33,9 @@ nav:
   - Увод:
     - Шта је вештачка интелигенција?: what_is_ai.md
     - Историјат развоја: history_ai.md
-    - Turinog test: turing_test.md
+    - Турингов тест: turing_test.md
+    - Продукциони системи: production_systems.md
+    - Алгоритми претраживања: search_algorithms.md
   - ML.NET:
     - ML.NET Model Builder: mlnet_mb.md
     - ML.NET задаци: mlnet_ml_tasks.md
