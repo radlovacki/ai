@@ -36,7 +36,9 @@ nav:
     - Turinog test: turing_test.md
   - ML.NET:
     - ML.NET Model Builder: mlnet_mb.md
+    - ML.NET задаци: mlnet_ml_tasks.md
     - Бинарна класификација: binary_classification.md
+    - Регресија: regression_linear.md
 
 markdown_extensions:
   - attr_list
